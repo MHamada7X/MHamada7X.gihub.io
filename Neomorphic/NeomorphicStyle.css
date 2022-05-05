@@ -11,11 +11,11 @@ body {
   align-items: center;
   overflow: hidden; }
   
+  .lightbg {
+    background: #E4EBF5; }
+
   .orangebg {
     background: #b55500; }
-
-.lightbg {
-  background: #E4EBF5; }
 
 .darkbg {
   background: #171717; }
